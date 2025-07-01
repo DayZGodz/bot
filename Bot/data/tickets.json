@@ -1,0 +1,680 @@
+{
+    "1389165623111716964": {
+        "user": 1269997099584323627,
+        "category": "DOACAO",
+        "created_at": "2025-06-30 05:48:14.173667",
+        "closed": false
+    },
+    "1389168136472891514": {
+        "user": 1269997099584323627,
+        "category": "DOACAO",
+        "created_at": "2025-06-30 05:58:13.164833",
+        "closed": false
+    },
+    "1389169127805157506": {
+        "user": 1269997099584323627,
+        "category": "DOACAO",
+        "created_at": "2025-06-30 06:02:09.505910",
+        "closed": false
+    },
+    "1389169752911511734": {
+        "user": 1269997099584323627,
+        "category": "DOACAO",
+        "created_at": "2025-06-30 06:04:38.478375",
+        "closed": false
+    },
+    "1389174271582011533": {
+        "user": 1269997099584323627,
+        "category": "DOACAO",
+        "created_at": "2025-06-30 06:22:35.882712",
+        "closed": false
+    },
+    "1389179015583240415": {
+        "user": 1269997099584323627,
+        "category": "DOACAO",
+        "created_at": "2025-06-30 06:41:27.159113",
+        "closed": false,
+        "problema": "Machismo, nao gostei me senti ofendida",
+        "nome_ingame": "BoBGodz",
+        "steam_id": "76561198340320714"
+    },
+    "1389181733059956759": {
+        "user": 1269997099584323627,
+        "category": "SUPORTE",
+        "created_at": "2025-06-30 06:52:14.944497",
+        "closed": false,
+        "nome_ingame": "BOBGODZ",
+        "steam_id": "76561199234580606",
+        "problema": "Machismo, nao gostei me senti ofendida"
+    },
+    "1389183371367944272": {
+        "user": 1269997099584323627,
+        "category": "DOACAO",
+        "created_at": "2025-06-30 06:58:45.404565",
+        "closed": false,
+        "nome_ingame": "bobgodz",
+        "steam_id": "76561199234580606",
+        "problema": "Machismo, nao gostei me senti ofendida"
+    },
+    "1389189931863375933": {
+        "user": 1269997099584323627,
+        "category": "DOACAO",
+        "created_at": "2025-06-30 07:24:49.715646",
+        "closed": false,
+        "nome_ingame": "MUZACOM",
+        "steam_id": "76561199234580606",
+        "problema": "GOSTARIA DE FAZER UMA ESQUIN DE ARMA"
+    },
+    "1389195396831641651": {
+        "user": 1269997099584323627,
+        "category": "SUPORTE",
+        "created_at": "2025-06-30 07:46:33.110789",
+        "closed": false,
+        "nome_ingame": "MUZACOM",
+        "steam_id": "76561199234580606",
+        "problema": "GOSTARIA DE FAZER UMA ESQUIN DE ARMA"
+    },
+    "1389199085348851733": {
+        "user": 1269997099584323627,
+        "category": "SUPORTE",
+        "created_at": "2025-06-30 08:01:12.048876",
+        "closed": false,
+        "nome_ingame": "MUZACOM",
+        "steam_id": "76561199234580606",
+        "problema": "GOSTARIA DE FAZER UMA ESQUIN DE ARMA"
+    },
+    "1389200579892346971": {
+        "user": 1269997099584323627,
+        "category": "SUPORTE",
+        "created_at": "2025-06-30 08:07:08.561916",
+        "closed": false,
+        "nome_ingame": "MUZACOM",
+        "steam_id": "76561199234580606",
+        "problema": "GOSTARIA DE FAZER UMA ESQUIN DE ARMA"
+    },
+    "1389204023705604096": {
+        "user": 1269997099584323627,
+        "category": "SUPORTE",
+        "created_at": "2025-06-30 08:20:49.441111",
+        "closed": false,
+        "nome_ingame": "MUZACOM",
+        "steam_id": "76561199234580606",
+        "problema": "GOSTARIA DE FAZER UMA ESQUIN DE ARMA"
+    },
+    "1389205630207655966": {
+        "user": 1269997099584323627,
+        "category": "SUPORTE",
+        "created_at": "2025-06-30 08:27:12.254732",
+        "closed": false,
+        "nome_ingame": "MUZACOM",
+        "steam_id": "76561199234580606",
+        "problema": "GOSTARIA DE FAZER UMA ESQUIN DE ARMA"
+    },
+    "1389207865952043051": {
+        "user": 1269997099584323627,
+        "category": "SUPORTE",
+        "created_at": "2025-06-30 08:36:05.710116",
+        "closed": false,
+        "nome_ingame": "MUZACOM",
+        "steam_id": "76561199234580606",
+        "problema": "GOSTARIA DE FAZER UMA ESQUIN DE ARMA"
+    },
+    "1389209293349326920": {
+        "user": 1269997099584323627,
+        "category": "SUPORTE",
+        "created_at": "2025-06-30 08:41:45.567854",
+        "closed": false,
+        "nome_ingame": "MUZACOM",
+        "steam_id": "76561199234580606",
+        "problema": "GOSTARIA DE FAZER UMA ESQUIN DE ARMA"
+    },
+    "1389212522321543262": {
+        "user": 1269997099584323627,
+        "category": "SUPORTE",
+        "created_at": "2025-06-30 08:54:35.550394",
+        "closed": false,
+        "nome_ingame": "MUZACOM",
+        "steam_id": "76561199234580606",
+        "problema": "GOSTARIA DE FAZER UMA ESQUIN DE ARMA"
+    },
+    "1389214016181768305": {
+        "user": 1269997099584323627,
+        "category": "SUPORTE",
+        "created_at": "2025-06-30 09:00:31.966067",
+        "closed": false,
+        "nome_ingame": "MUZACOM",
+        "steam_id": "76561199234580606",
+        "problema": "GOSTARIA DE FAZER UMA ESQUIN DE ARMA"
+    },
+    "1389215090636488856": {
+        "user": 1269997099584323627,
+        "category": "SUPORTE",
+        "created_at": "2025-06-30 09:04:47.735219",
+        "closed": false,
+        "nome_ingame": "MUZACOM",
+        "steam_id": "76561199234580606",
+        "problema": "GOSTARIA DE FAZER UMA ESQUIN DE ARMA"
+    },
+    "1389219172432478298": {
+        "user": 1269997099584323627,
+        "category": "SUPORTE",
+        "created_at": "2025-06-30 09:21:00.977064",
+        "closed": false,
+        "nome_ingame": "MUZACOM",
+        "steam_id": "76561199234580606",
+        "problema": "GOSTARIA DE FAZER UMA ESQUIN DE ARMA"
+    },
+    "1389221062864015390": {
+        "user": 1269997099584323627,
+        "category": "SUPORTE",
+        "created_at": "2025-06-30 09:28:31.702454",
+        "closed": false,
+        "nome_ingame": "MUZACOM",
+        "steam_id": "76561199234580606",
+        "problema": "GOSTARIA DE FAZER UMA ESQUIN DE ARMA"
+    },
+    "1389222099125801114": {
+        "user": 1269997099584323627,
+        "category": "SUPORTE",
+        "created_at": "2025-06-30 09:32:39.139037",
+        "closed": false,
+        "nome_ingame": "MUZACOM",
+        "steam_id": "76561199234580606",
+        "problema": "GOSTARIA DE FAZER UMA ESQUIN DE ARMA"
+    },
+    "1389223516364214305": {
+        "user": 1269997099584323627,
+        "category": "SUPORTE",
+        "created_at": "2025-06-30 09:38:16.663833",
+        "closed": false,
+        "nome_ingame": "MUZACOM",
+        "steam_id": "76561199234580606",
+        "problema": "GOSTARIA DE FAZER UMA ESQUIN DE ARMA"
+    },
+    "1389224875083694120": {
+        "user": 1269997099584323627,
+        "category": "SUPORTE",
+        "created_at": "2025-06-30 09:43:40.650161",
+        "closed": false,
+        "nome_ingame": "alemao",
+        "steam_id": "76561198106689063",
+        "problema": "achei um bug"
+    },
+    "1389226524141420674": {
+        "user": 1269997099584323627,
+        "category": "SUPORTE",
+        "created_at": "2025-06-30 09:50:13.691205",
+        "closed": false,
+        "nome_ingame": "alemao",
+        "steam_id": "76561198106689063",
+        "problema": "achei um bug"
+    },
+    "1389230929041559645": {
+        "user": 1269997099584323627,
+        "category": "SUPORTE",
+        "created_at": "2025-06-30 10:07:43.951799",
+        "closed": false,
+        "nome_ingame": "alemao",
+        "steam_id": "76561198106689063",
+        "problema": "achei um bug"
+    },
+    "1389234553251430553": {
+        "user": 1269997099584323627,
+        "category": "SUPORTE",
+        "created_at": "2025-06-30 10:22:08.248475",
+        "closed": false,
+        "nome_ingame": "alemao",
+        "steam_id": "76561198106689063",
+        "problema": "achei um bug"
+    },
+    "1389240585767878761": {
+        "user": 1269997099584323627,
+        "category": "SUPORTE",
+        "created_at": "2025-06-30 10:46:06.733735",
+        "closed": false,
+        "nome_ingame": "alemao",
+        "steam_id": "76561198106689063",
+        "problema": "achei um bug"
+    },
+    "1389248735581831420": {
+        "user": 1269997099584323627,
+        "category": "SUPORTE",
+        "created_at": "2025-06-30 11:18:29.451509",
+        "closed": false,
+        "nome_ingame": "achei um bug",
+        "steam_id": "76561198106689063",
+        "problema": "achei um bug"
+    },
+    "1389253783309258972": {
+        "user": 1269997099584323627,
+        "category": "SUPORTE",
+        "created_at": "2025-06-30 11:38:32.825378",
+        "closed": false,
+        "nome_ingame": "alemao",
+        "steam_id": "76561198106689063",
+        "problema": "achei um bug"
+    },
+    "1389254733679693904": {
+        "user": 1269997099584323627,
+        "category": "SUPORTE",
+        "created_at": "2025-06-30 11:42:19.440796",
+        "closed": false,
+        "nome_ingame": "alemao",
+        "steam_id": "76561198106689063",
+        "problema": "achei um bug"
+    },
+    "1389255576583798887": {
+        "user": 1269997099584323627,
+        "category": "SUPORTE",
+        "created_at": "2025-06-30 11:45:40.590288",
+        "closed": false,
+        "nome_ingame": "alemao",
+        "steam_id": "76561198106689063",
+        "problema": "achei um bug"
+    },
+    "1389259079657984112": {
+        "user": 1269997099584323627,
+        "category": "SUPORTE",
+        "created_at": "2025-06-30 11:59:35.700574",
+        "closed": false,
+        "nome_ingame": "alemao",
+        "steam_id": "76561198106689063",
+        "problema": "achei um bug"
+    },
+    "1389259628084465674": {
+        "user": 1269997099584323627,
+        "category": "SUPORTE",
+        "created_at": "2025-06-30 12:01:46.746756",
+        "closed": false,
+        "nome_ingame": "alemao",
+        "steam_id": "76561198106689063",
+        "problema": "achei um bug"
+    },
+    "1389285722912981042": {
+        "user": 1269997099584323627,
+        "category": "SUPORTE",
+        "created_at": "2025-06-30 13:45:27.722212",
+        "closed": false,
+        "nome_ingame": "alemao",
+        "steam_id": "76561198106689063",
+        "problema": "achei um bug"
+    },
+    "1389286558028267532": {
+        "user": 1269997099584323627,
+        "category": "SUPORTE",
+        "created_at": "2025-06-30 13:48:47.162292",
+        "closed": false,
+        "nome_ingame": "alemao",
+        "steam_id": "76561198106689063",
+        "problema": "achei um bug"
+    },
+    "1389288313978097807": {
+        "user": 1269997099584323627,
+        "category": "SUPORTE",
+        "created_at": "2025-06-30 13:55:45.494812",
+        "closed": false,
+        "nome_ingame": "alemao",
+        "steam_id": "76561198106689063",
+        "problema": "achei um bug"
+    },
+    "1389289996548313158": {
+        "user": 1269997099584323627,
+        "category": "SUPORTE",
+        "created_at": "2025-06-30 14:02:26.789434",
+        "closed": false,
+        "nome_ingame": "alemao",
+        "steam_id": "76561198106689063",
+        "problema": "achei um bug"
+    },
+    "1389290489085427824": {
+        "user": 1269997099584323627,
+        "category": "SUPORTE",
+        "created_at": "2025-06-30 14:04:24.344058",
+        "closed": false,
+        "nome_ingame": "alemao",
+        "steam_id": "76561198106689063",
+        "problema": "achei um bug"
+    },
+    "1389312035267023080": {
+        "user": 1269997099584323627,
+        "category": "SUPORTE",
+        "created_at": "2025-06-30 15:30:01.114130",
+        "closed": false,
+        "nome_ingame": "alemao",
+        "steam_id": "76561198106689063",
+        "problema": "achei um bug"
+    },
+    "1389313354274836500": {
+        "user": 1269997099584323627,
+        "category": "SUPORTE",
+        "created_at": "2025-06-30 15:35:15.426614",
+        "closed": false,
+        "nome_ingame": "alemao",
+        "steam_id": "76561198106689063",
+        "problema": "achei um bug"
+    },
+    "1389314900584562859": {
+        "user": 1269997099584323627,
+        "category": "SUPORTE",
+        "created_at": "2025-06-30 15:41:24.072669",
+        "closed": false,
+        "nome_ingame": "alemao",
+        "steam_id": "76561198106689063",
+        "problema": "achei um bug"
+    },
+    "1389319024718119022": {
+        "user": 1269997099584323627,
+        "category": "SUPORTE",
+        "created_at": "2025-06-30 15:57:47.342037",
+        "closed": false,
+        "nome_ingame": "alemao",
+        "steam_id": "76561198106689063",
+        "problema": "achei um bug"
+    },
+    "1389319464163606618": {
+        "user": 1269997099584323627,
+        "category": "SUPORTE",
+        "created_at": "2025-06-30 15:59:32.293356",
+        "closed": false,
+        "nome_ingame": "alemao",
+        "steam_id": "76561198106689063",
+        "problema": "achei um bug"
+    },
+    "1389320532360433825": {
+        "user": 1269997099584323627,
+        "category": "SUPORTE",
+        "created_at": "2025-06-30 16:03:47.308343",
+        "closed": false,
+        "nome_ingame": "CR7 THE GOAT",
+        "steam_id": "76561199275480547",
+        "problema": "bem ja jogo a um tempinho aq no favela e estou trazendo um novo cla porem estamos muito atrasado em questao de base queria saber se vo\u00e7es nao conseguem emprestar o martelinho para construirmos bem se nao puderem tranquilo ;] a base"
+    },
+    "1389320933994528831": {
+        "user": 1269997099584323627,
+        "category": "SUPORTE",
+        "created_at": "2025-06-30 16:05:22.779432",
+        "closed": false,
+        "nome_ingame": "CR7 THE GOAT",
+        "steam_id": "76561199275480547",
+        "problema": "bem ja jogo a um tempinho aq no favela e estou trazendo um novo cla porem estamos muito atrasado em questao de base queria saber se vo\u00e7es nao conseguem emprestar o martelinho para construirmos bem se nao puderem tranquilo ;] a base"
+    },
+    "1389321712172011660": {
+        "user": 1269997099584323627,
+        "category": "SUPORTE",
+        "created_at": "2025-06-30 16:08:28.790137",
+        "closed": false,
+        "nome_ingame": "CR7 THE GOAT",
+        "steam_id": "76561199275480547",
+        "problema": "bem ja jogo a um tempinho aq no favela e estou trazendo um novo cla porem estamos muito atrasado em questao de base queria saber se vo\u00e7es nao conseguem emprestar o martelinho para construirmos bem se nao puderem tranquilo ;] a base"
+    },
+    "1389322493709385758": {
+        "user": 1269997099584323627,
+        "category": "SUPORTE",
+        "created_at": "2025-06-30 16:11:34.410627",
+        "closed": false,
+        "nome_ingame": "CR7 THE GOAT",
+        "steam_id": "76561199275480547",
+        "problema": "bem ja jogo a um tempinho aq no favela e estou trazendo um novo cla porem estamos muito atrasado em questao de base queria saber se vo\u00e7es nao conseguem emprestar o martelinho para construirmos bem se nao puderem tranquilo ;] a base"
+    },
+    "1389323358667276419": {
+        "user": 1269997099584323627,
+        "category": "SUPORTE",
+        "created_at": "2025-06-30 16:15:00.739364",
+        "closed": false,
+        "nome_ingame": "CR7 THE GOAT",
+        "steam_id": "76561199275480547",
+        "problema": "bem ja jogo a um tempinho aq no favela e estou trazendo um novo cla porem estamos muito atrasado em questao de base queria saber se vo\u00e7es nao conseguem emprestar o martelinho para construirmos bem se nao puderem tranquilo ;] a base"
+    },
+    "1389324407083761734": {
+        "user": 1269997099584323627,
+        "category": "SUPORTE",
+        "created_at": "2025-06-30 16:19:11.036510",
+        "closed": false,
+        "nome_ingame": "CR7 THE GOAT",
+        "steam_id": "76561199275480547",
+        "problema": "bem ja jogo a um tempinho aq no favela e estou trazendo um novo cla porem estamos muito atrasado em questao de base queria saber se vo\u00e7es nao conseguem emprestar o martelinho para construirmos bem se nao puderem tranquilo ;] a base"
+    },
+    "1389325607522930759": {
+        "user": 1269997099584323627,
+        "category": "SUPORTE",
+        "created_at": "2025-06-30 16:23:56.923100",
+        "closed": false,
+        "nome_ingame": "CR7 THE GOAT",
+        "steam_id": "76561199275480547",
+        "problema": "bem ja jogo a um tempinho aq no favela e estou trazendo um novo cla porem estamos muito atrasado em questao de base queria saber se vo\u00e7es nao conseguem emprestar o martelinho para construirmos bem se nao puderem tranquilo ;] a base"
+    },
+    "1389328023769317518": {
+        "user": 1269997099584323627,
+        "category": "SUPORTE",
+        "created_at": "2025-06-30 16:33:32.883645",
+        "closed": false,
+        "nome_ingame": "CR7 THE GOAT",
+        "steam_id": "76561199275480547",
+        "problema": "bem ja jogo a um tempinho aq no favela e estou trazendo um novo cla porem estamos muito atrasado em questao de base queria saber se vo\u00e7es nao conseguem emprestar o martelinho para construirmos bem se nao puderem tranquilo ;] a base"
+    },
+    "1389328840790118480": {
+        "user": 1269997099584323627,
+        "category": "SUPORTE",
+        "created_at": "2025-06-30 16:36:47.661460",
+        "closed": false,
+        "nome_ingame": "CR7 THE GOAT",
+        "steam_id": "76561199275480547",
+        "problema": "bem ja jogo a um tempinho aq no favela e estou trazendo um novo cla porem estamos muito atrasado em questao de base queria saber se vo\u00e7es nao conseguem emprestar o martelinho para construirmos bem se nao puderem tranquilo ;] a base"
+    },
+    "1389329281682899116": {
+        "user": 1269997099584323627,
+        "category": "SUPORTE",
+        "created_at": "2025-06-30 16:38:32.784240",
+        "closed": false,
+        "nome_ingame": "CR7 THE GOAT",
+        "steam_id": "76561199275480547",
+        "problema": "bem ja jogo a um tempinho aq no favela e estou trazendo um novo cla porem estamos muito atrasado em questao de base queria saber se vo\u00e7es nao conseguem emprestar o martelinho para construirmos bem se nao puderem tranquilo ;] a base"
+    },
+    "1389330804714504333": {
+        "user": 1269997099584323627,
+        "category": "SUPORTE",
+        "created_at": "2025-06-30 16:44:35.960717",
+        "closed": false,
+        "nome_ingame": "CR7 THE GOAT",
+        "steam_id": "76561199275480547",
+        "problema": "bem ja jogo a um tempinho aq no favela e estou trazendo um novo cla porem estamos muito atrasado em questao de base queria saber se vo\u00e7es nao conseguem emprestar o martelinho para construirmos bem se nao puderem tranquilo ;] a base"
+    },
+    "1389331193337741402": {
+        "user": 1269997099584323627,
+        "category": "SUPORTE",
+        "created_at": "2025-06-30 16:46:08.663641",
+        "closed": false,
+        "nome_ingame": "CR7 THE GOAT",
+        "steam_id": "76561199275480547",
+        "problema": "bem ja jogo a um tempinho aq no favela e estou trazendo um novo cla porem estamos muito atrasado em questao de base queria saber se vo\u00e7es nao conseguem emprestar o martelinho para construirmos bem se nao puderem tranquilo ;] a base"
+    },
+    "1389333619532890222": {
+        "user": 962274999543156776,
+        "category": "SUPORTE",
+        "created_at": "2025-06-30 16:55:47.137795",
+        "closed": false,
+        "nome_ingame": "CR7 THE GOAT",
+        "steam_id": "76561199275480547",
+        "problema": "bem ja jogo a um tempinho aq no favela e estou trazendo um novo cla porem estamos muito atrasado em questao de base queria saber se vo\u00e7es nao conseguem emprestar o martelinho para construirmos bem se nao puderem tranquilo ;] a base"
+    },
+    "1389337623553642697": {
+        "user": 1269997099584323627,
+        "category": "SUPORTE",
+        "created_at": "2025-06-30 17:11:41.681733",
+        "closed": false,
+        "nome_ingame": "CR7 THE GOAT",
+        "steam_id": "76561199275480547",
+        "problema": "bem ja jogo a um tempinho aq no favela e estou trazendo um novo cla porem estamos muito atrasado em questao de base queria saber se vo\u00e7es nao conseguem emprestar o martelinho para construirmos bem se nao puderem tranquilo ;] a base"
+    },
+    "1389342679753560154": {
+        "user": 1269997099584323627,
+        "category": "SUPORTE",
+        "created_at": "2025-06-30 17:31:47.379177",
+        "closed": false,
+        "nome_ingame": "CR7 THE GOAT",
+        "steam_id": "76561199275480547",
+        "problema": "bem ja jogo a um tempinho aq no favela e estou trazendo um novo cla porem estamos muito atrasado em questao de base queria saber se vo\u00e7es nao conseguem emprestar o martelinho para construirmos bem se nao puderem tranquilo ;] a base"
+    },
+    "1389343478244442245": {
+        "user": 1269997099584323627,
+        "category": "SUPORTE",
+        "created_at": "2025-06-30 17:34:58.038430",
+        "closed": false,
+        "nome_ingame": "CR7 THE GOAT",
+        "steam_id": "76561199275480547",
+        "problema": "bem ja jogo a um tempinho aq no favela e estou trazendo um novo cla porem estamos muito atrasado em questao de base queria saber se vo\u00e7es nao conseguem emprestar o martelinho para construirmos bem se nao puderem tranquilo ;] a base"
+    },
+    "1389344956707242037": {
+        "user": 1269997099584323627,
+        "category": "SUPORTE",
+        "created_at": "2025-06-30 17:40:50.164192",
+        "closed": false,
+        "nome_ingame": "CR7 THE GOAT",
+        "steam_id": "76561199275480547",
+        "problema": "bem ja jogo a um tempinho aq no favela e estou trazendo um novo cla porem estamos muito atrasado em questao de base queria saber se vo\u00e7es nao conseguem emprestar o martelinho para construirmos bem se nao puderem tranquilo ;] a base"
+    },
+    "1389346016159072257": {
+        "user": 1269997099584323627,
+        "category": "SUPORTE",
+        "created_at": "2025-06-30 17:45:02.656933",
+        "closed": false,
+        "nome_ingame": "CR7 THE GOAT",
+        "steam_id": "76561199275480547",
+        "problema": "bem ja jogo a um tempinho aq no favela e estou trazendo um novo cla porem estamos muito atrasado em questao de base queria saber se vo\u00e7es nao conseguem emprestar o martelinho para construirmos bem se nao puderem tranquilo ;] a base"
+    },
+    "1389348026677592107": {
+        "user": 1269997099584323627,
+        "category": "SUPORTE",
+        "created_at": "2025-06-30 17:53:02.233075",
+        "closed": false,
+        "nome_ingame": "CR7 THE GOAT",
+        "steam_id": "76561199275480547",
+        "problema": "bem ja jogo a um tempinho aq no favela e estou trazendo um novo cla porem estamos muito atrasado em questao de base queria saber se vo\u00e7es nao conseguem emprestar o martelinho para construirmos bem se nao puderem tranquilo ;] a base"
+    },
+    "1389349453399330927": {
+        "user": 1269997099584323627,
+        "category": "SUPORTE",
+        "created_at": "2025-06-30 17:58:42.137946",
+        "closed": false,
+        "nome_ingame": "CR7 THE GOAT",
+        "steam_id": "76561199275480547",
+        "problema": "bem ja jogo a um tempinho aq no favela e estou trazendo um novo cla porem estamos muito atrasado em questao de base queria saber se vo\u00e7es nao conseguem emprestar o martelinho para construirmos bem se nao puderem tranquilo ;] a base"
+    },
+    "1389350182008651846": {
+        "user": 1269997099584323627,
+        "category": "SUPORTE",
+        "created_at": "2025-06-30 18:01:35.861172",
+        "closed": false,
+        "nome_ingame": "CR7 THE GOAT",
+        "steam_id": "76561199275480547",
+        "problema": "bem ja jogo a um tempinho aq no favela e estou trazendo um novo cla porem estamos muito atrasado em questao de base queria saber se vo\u00e7es nao conseguem emprestar o martelinho para construirmos bem se nao puderem tranquilo ;] a base"
+    },
+    "1389350950841356399": {
+        "user": 1269997099584323627,
+        "category": "SUPORTE",
+        "created_at": "2025-06-30 18:04:39.284786",
+        "closed": false,
+        "nome_ingame": "CR7 THE GOAT",
+        "steam_id": "76561199275480547",
+        "problema": "bem ja jogo a um tempinho aq no favela e estou trazendo um novo cla porem estamos muito atrasado em questao de base queria saber se vo\u00e7es nao conseguem emprestar o martelinho para construirmos bem se nao puderem tranquilo ;] a base"
+    },
+    "1389351655798997173": {
+        "user": 1269997099584323627,
+        "category": "SUPORTE",
+        "created_at": "2025-06-30 18:07:27.819580",
+        "closed": false,
+        "nome_ingame": "CR7 THE GOAT",
+        "steam_id": "76561199275480547",
+        "problema": "bem ja jogo a um tempinho aq no favela e estou trazendo um novo cla porem estamos muito atrasado em questao de base queria saber se vo\u00e7es nao conseguem emprestar o martelinho para construirmos bem se nao puderem tranquilo ;] a base"
+    },
+    "1389355670100381857": {
+        "user": 1269997099584323627,
+        "category": "SUPORTE",
+        "created_at": "2025-06-30 18:23:24.262609",
+        "closed": false,
+        "nome_ingame": "CR7 THE GOAT",
+        "steam_id": "76561199275480547",
+        "problema": "bem ja jogo a um tempinho aq no favela e estou trazendo um novo cla porem estamos muito atrasado em questao de base queria saber se vo\u00e7es nao conseguem emprestar o martelinho para construirmos bem se nao puderem tranquilo ;] a base"
+    },
+    "1389358045267497052": {
+        "user": 1269997099584323627,
+        "category": "SUPORTE",
+        "created_at": "2025-06-30 18:32:50.821588",
+        "closed": false,
+        "nome_ingame": "CR7 THE GOAT",
+        "steam_id": "76561199275480547",
+        "problema": "bem ja jogo a um tempinho aq no favela e estou trazendo um novo cla porem estamos muito atrasado em questao de base queria saber se vo\u00e7es nao conseguem emprestar o martelinho para construirmos bem se nao puderem tranquilo ;] a base"
+    },
+    "1389359878178476054": {
+        "user": 1269997099584323627,
+        "category": "SUPORTE",
+        "created_at": "2025-06-30 18:40:07.913930",
+        "closed": false,
+        "nome_ingame": "CR7 THE GOAT",
+        "steam_id": "76561199275480547",
+        "problema": "bem ja jogo a um tempinho aq no favela e estou trazendo um novo cla porem estamos muito atrasado em questao de base queria saber se vo\u00e7es nao conseguem emprestar o martelinho para construirmos bem se nao puderem tranquilo ;] a base"
+    },
+    "1389379490748170313": {
+        "user": 1269997099584323627,
+        "category": "SUPORTE",
+        "created_at": "2025-06-30 19:58:04.229120",
+        "closed": true,
+        "nome_ingame": "CR7 THE GOAT",
+        "steam_id": "76561199275480547",
+        "problema": "bem ja jogo a um tempinho aq no favela e estou trazendo um novo cla porem estamos muito atrasado em questao de base queria saber se vo\u00e7es nao conseguem emprestar o martelinho para construirmos bem se nao puderem tranquilo ;] a base"
+    },
+    "1389390781248307232": {
+        "user": 1269997099584323627,
+        "category": "SUPORTE",
+        "created_at": "2025-06-30 20:42:55.842657",
+        "closed": true,
+        "nome_ingame": "CR7 THE GOAT",
+        "steam_id": "76561199275480547",
+        "problema": "bem ja jogo a um tempinho aq no favela e estou trazendo um novo cla porem estamos muito atrasado em questao de base queria saber se vo\u00e7es nao conseguem emprestar o martelinho para construirmos bem se nao puderem tranquilo ;] a base"
+    },
+    "1389393761540378687": {
+        "user": 1269997099584323627,
+        "category": "SUPORTE",
+        "created_at": "2025-06-30 20:54:45.905599",
+        "closed": false,
+        "nome_ingame": "CR7 THE GOAT",
+        "steam_id": "76561199275480547",
+        "problema": "bem ja jogo a um tempinho aq no favela e estou trazendo um novo cla porem estamos muito atrasado em questao de base queria saber se vo\u00e7es nao conseguem emprestar o martelinho para construirmos bem se nao puderem tranquilo ;] a base"
+    },
+    "1389396800607354930": {
+        "user": 1269997099584323627,
+        "category": "SUPORTE",
+        "created_at": "2025-06-30 21:06:50.643301",
+        "closed": false,
+        "nome_ingame": "CR7 THE GOAT",
+        "steam_id": "76561199275480547",
+        "problema": "bem ja jogo a um tempinho aq no favela e estou trazendo um novo cla porem estamos muito atrasado em questao de base queria saber se vo\u00e7es nao conseguem emprestar o martelinho para construirmos bem se nao puderem tranquilo ;] a base"
+    },
+    "1389399303952400405": {
+        "user": 1269997099584323627,
+        "category": "SUPORTE",
+        "created_at": "2025-06-30 21:16:47.381907",
+        "closed": false,
+        "nome_ingame": "CR7 THE GOAT",
+        "steam_id": "76561199275480547",
+        "problema": "bem ja jogo a um tempinho aq no favela e estou trazendo um novo cla porem estamos muito atrasado em questao de base queria saber se vo\u00e7es nao conseguem emprestar o martelinho para construirmos bem se nao puderem tranquilo ;] a base"
+    },
+    "1389400320630587443": {
+        "user": 1269997099584323627,
+        "category": "SUPORTE",
+        "created_at": "2025-06-30 21:20:49.649146",
+        "closed": false,
+        "nome_ingame": "CR7 THE GOAT",
+        "steam_id": "76561199275480547",
+        "problema": "bem ja jogo a um tempinho aq no favela e estou trazendo um novo cla porem estamos muito atrasado em questao de base queria saber se vo\u00e7es nao conseguem emprestar o martelinho para construirmos bem se nao puderem tranquilo ;] a base"
+    },
+    "1389401418909220964": {
+        "user": 1269997099584323627,
+        "category": "SUPORTE",
+        "created_at": "2025-06-30 21:25:11.523235",
+        "closed": false,
+        "nome_ingame": "CR7 THE GOAT",
+        "steam_id": "76561199275480547",
+        "problema": "bem ja jogo a um tempinho aq no favela e estou trazendo um novo cla porem estamos muito atrasado em questao de base queria saber se vo\u00e7es nao conseguem emprestar o martelinho para construirmos bem se nao puderem tranquilo ;] a base"
+    }
+}

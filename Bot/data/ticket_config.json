@@ -1,0 +1,78 @@
+{
+  "auto_close_inactive": true,
+  "auto_close_hours": 72,
+  "max_tickets_per_user": 3,
+  "require_topic": true,
+  "transcript_format": "html",
+  "ping_staff_on_create": true,
+  "auto_claim_enabled": false,
+  "steam_api_key": "840BB63C5FC990DA332C1125247C2983",
+  "banner_url": "https://media.discordapp.net/attachments/1294802305086128128/1364769929391243345/suporte_final.png?ex=6861e38b&is=6860920b&hm=2165bcff246652d423c5b1f60a360a47f8f7efdf074c2128c91ccb9a798067aa&=&format=webp&quality=lossless&width=1082&height=676",
+  "categories": {
+    "SUPORTE": {
+      "emoji": "🛠️",
+      "color": 5793266,
+      "description": "Suporte técnico e dúvidas gerais sobre o servidor",
+      "staff_roles": [
+        1388817824516145153
+      ],
+      "questions": [
+        "Descreva detalhadamente seu problema",
+        "Quando o problema começou a ocorrer?",
+        "Você já tentou alguma solução?"
+      ]
+    },
+    "DENÚNCIA": {
+      "emoji": "⚠️",
+      "color": 15548997,
+      "description": "Reportar jogadores que violaram as regras",
+      "staff_roles": [
+        1388817824516145153
+      ],
+      "questions": [
+        "Nome do jogador que você está reportando",
+        "Qual regra foi violada?",
+        "Você possui evidências? (screenshots/vídeos)"
+      ]
+    },
+    "RAID": {
+      "emoji": "🏴‍☠️",
+      "color": 9543935,
+      "description": "Reportar raids ilegais ou problemas relacionados",
+      "staff_roles": [
+        1388817824516145153
+      ],
+      "questions": [
+        "Localização exata do raid (coordenadas)",
+        "Quantos jogadores estavam envolvidos?",
+        "Horário aproximado do ocorrido"
+      ]
+    },
+    "DOAÇÕES": {
+      "emoji": "💳",
+      "color": 5763207,
+      "description": "Problemas com doações, VIP ou benefícios premium",
+      "staff_roles": [
+        1388817824516145153
+      ],
+      "questions": [
+        "Valor exato da doação realizada",
+        "Método de pagamento utilizado (Pix, PayPal, etc)",
+        "Comprovante da transação (disponível?)"
+      ]
+    },
+    "OUTROS": {
+      "emoji": "📋",
+      "color": 16772444,
+      "description": "Outras questões não relacionadas às categorias acima",
+      "staff_roles": [
+        1388817824516145153
+      ],
+      "questions": [
+        "Qual o motivo do seu contato?",
+        "Como podemos ajudá-lo?",
+        "Informações adicionais relevantes"
+      ]
+    }
+  }
+}

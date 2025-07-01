@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BoBGodz - closed-suporte-70</title>
+    <link href="https://fonts.googleapis.com/css2?family=gg+sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --background-primary: #313338;
+            --background-secondary: #2b2d31;
+            --background-tertiary: #1e1f22;
+            --background-message-hover: rgba(4,4,5,0.07);
+            --text-normal: #dbdee1;
+            --text-muted: #b5bac1;
+            --text-link: #00a8fc;
+            --text-positive: #23a55a;
+            --header-primary: #f2f3f5;
+            --interactive-hover: #2e3035;
+            --scrollbar-thin-thumb: #1a1b1e;
+            --scrollbar-thin-track: transparent;
+            --mention-background: rgba(88,101,242,0.3);
+            --mention-foreground: #c9cdfb;
+            --code-background: #2b2d31;
+            --embed-background: #2b2d31;
+            --embed-border: #1e1f22;
+        }
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'gg sans', 'Noto Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+        }
+
+        body {
+            background: var(--background-secondary);
+            color: var(--text-normal);
+            line-height: 1.5;
+        }
+
+        .header {
+            background: var(--background-primary);
+            border-bottom: 1px solid var(--background-tertiary);
+            padding: 16px;
+            position: sticky;
+            top: 0;
+            z-index: 10;
+        }
+
+        .header-content {
+            display: flex;
+            align-items: center;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .server-icon {
+            width: 48px;
+            height: 48px;
+            border-radius: 16px;
+            margin-right: 16px;
+        }
+
+        .server-info {
+            flex-grow: 1;
+        }
+
+        .server-name {
+            color: var(--header-primary);
+            font-size: 16px;
+            font-weight: 600;
+        }
+
+        .channel-name {
+            color: var(--text-muted);
+            font-size: 14px;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 16px;
+        }
+
+        .info-section {
+            background: var(--background-primary);
+            border-radius: 8px;
+            padding: 16px;
+            margin-bottom: 16px;
+        }
+
+        .info-title {
+            color: var(--header-primary);
+            font-size: 16px;
+            font-weight: 600;
+            margin-bottom: 8px;
+        }
+
+        .info-content {
+            color: var(--text-normal);
+            font-size: 14px;
+        }
+
+        .info-content p {
+            margin: 4px 0;
+        }
+
+        .messages {
+            background: var(--background-primary);
+            border-radius: 8px;
+            padding: 16px;
+        }
+
+        .message {
+            display: flex;
+            padding: 8px;
+            margin: 2px 0;
+            border-radius: 4px;
+            transition: background-color 0.1s;
+        }
+
+        .message:hover {
+            background: var(--background-message-hover);
+        }
+
+        .avatar {
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            margin-right: 16px;
+        }
+
+        .message-content {
+            flex-grow: 1;
+            min-width: 0;
+        }
+
+        .message-header {
+            display: flex;
+            align-items: baseline;
+            margin-bottom: 4px;
+        }
+
+        .username {
+            color: var(--header-primary);
+            font-size: 16px;
+            font-weight: 500;
+            margin-right: 8px;
+        }
+
+        .timestamp {
+            color: var(--text-muted);
+            font-size: 12px;
+        }
+
+        .content {
+            color: var(--text-normal);
+            font-size: 16px;
+            line-height: 1.375;
+            white-space: pre-wrap;
+            word-wrap: break-word;
+        }
+
+        .embed {
+            background: var(--embed-background);
+            border-left: 4px solid var(--text-link);
+            border-radius: 4px;
+            margin: 4px 0;
+            padding: 8px 16px;
+        }
+
+        .attachment {
+            margin: 8px 0;
+        }
+
+        .attachment img {
+            max-width: 100%;
+            max-height: 500px;
+            border-radius: 4px;
+        }
+
+        .attachment a {
+            color: var(--text-link);
+            text-decoration: none;
+        }
+
+        .attachment a:hover {
+            text-decoration: underline;
+        }
+
+        .mention {
+            background: var(--mention-background);
+            color: var(--mention-foreground);
+            padding: 0 2px;
+            border-radius: 3px;
+        }
+
+        code.inline {
+            background: var(--code-background);
+            padding: 2px 4px;
+            border-radius: 3px;
+            font-family: Consolas, 'Courier New', monospace;
+        }
+
+        .code-block {
+            background: var(--code-background);
+            border-radius: 4px;
+            margin: 4px 0;
+        }
+
+        .code-header {
+            padding: 8px;
+            color: var(--text-muted);
+            border-bottom: 1px solid var(--background-tertiary);
+        }
+
+        .code-block pre {
+            margin: 0;
+            padding: 8px;
+            overflow-x: auto;
+        }
+
+        .code-block code {
+            font-family: Consolas, 'Courier New', monospace;
+            white-space: pre;
+        }
+
+        .link {
+            color: var(--text-link);
+            text-decoration: none;
+        }
+
+        .link:hover {
+            text-decoration: underline;
+        }
+
+        ::-webkit-scrollbar {
+            width: 8px;
+            height: 8px;
+        }
+
+        ::-webkit-scrollbar-thumb {
+            background-color: var(--scrollbar-thin-thumb);
+            border-radius: 4px;
+        }
+
+        ::-webkit-scrollbar-track {
+            background-color: var(--scrollbar-thin-track);
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="header-content">
+            <img class="server-icon" src="https://cdn.discordapp.com/icons/1230910797220286586/fbb700f13ce26b3c63cb0a97d473d80f.png?size=1024" alt="BoBGodz">
+            <div class="server-info">
+                <div class="server-name">BoBGodz</div>
+                <div class="channel-name">closed-suporte-70</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="info-section">
+            <div class="info-title">Informações do Ticket</div>
+            <div class="info-content">
+                <p>Servidor: BoBGodz (1230910797220286586)</p>
+                <p>Canal: closed-suporte-70 (1389359878178476054)</p>
+                <p>Total de Mensagens: 2</p>
+                <p>Anexos Salvos: 0</p>
+                <p>Anexos Ignorados: 0</p>
+            </div>
+        </div>
+
+        <div class="info-section">
+            <div class="info-title">Estatísticas de Usuários</div>
+            <div class="info-content">
+                <p>2 - Ticket teste (1388728702992388137)</p>
+            </div>
+        </div>
+
+        <div class="messages">
+            <div class="message">
+                <img class="avatar" src="https://cdn.discordapp.com/avatars/1388728702992388137/a_8465484ec9d2525a1fcf843a10f512ad.gif?size=1024" alt="Ticket teste">
+                <div class="message-content">
+                    <div class="message-header">
+                        <span class="username">Ticket teste</span>
+                        <span class="timestamp">30/06/2025 às 21:40</span>
+                    </div>
+                    <div class="content"></div>
+                    <div class="embed">
+                        <div class="content"><span class="mention">@downs</span>
+Se possível anexar fotos ou video para melhorar compreensão
+Para fechar este ticket, reaja com 🔒
+
+BoBGodz - 30/06/2025 18:40
+
+<strong>Por favor nos Informe qual o seu problema.</strong>
+``<code class="inline">bem ja jogo a um tempinho aq no favela e estou trazendo um novo cla porem estamos muito atrasado em questao de base queria saber se voçes nao conseguem emprestar o martelinho para construirmos bem se nao puderem tranquilo ;] a base</code>`<code class="inline">
+<strong>Nos informe seu nome ingame:</strong>
+</code>`<code class="inline">CR7 THE GOAT</code>`<code class="inline">
+<strong>Informe sua Steam ID</strong>
+</code>`<code class="inline">76561199275480547</code>``
+<strong>Nome Steam:</strong> Phoenix
+<strong>Perfil:</strong> <a href="https://steamcommunity.com/profiles/76561199275480547/" target="_blank" class="link">Abrir perfil</a></div>
+                    </div>
+                </div>
+            </div>
+            <div class="message">
+                <img class="avatar" src="https://cdn.discordapp.com/avatars/1388728702992388137/a_8465484ec9d2525a1fcf843a10f512ad.gif?size=1024" alt="Ticket teste">
+                <div class="message-content">
+                    <div class="message-header">
+                        <span class="username">Ticket teste</span>
+                        <span class="timestamp">30/06/2025 às 21:40</span>
+                    </div>
+                    <div class="content"></div>
+                    <div class="embed">
+                        <div class="content">✅ Este ticket foi fechado pela equipe. Se precisar, abra um novo ticket.</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

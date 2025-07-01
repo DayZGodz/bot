@@ -1,0 +1,83 @@
+# ============================================
+# CONFIGURAÇÃO DO BOT DE TICKETS AVANÇADO
+# ============================================
+# 
+# Copie este arquivo para ".env" e preencha com suas informações
+# 
+# IMPORTANTE: Nunca compartilhe essas informações sensíveis!
+
+# ============================================
+# CONFIGURAÇÕES OBRIGATÓRIAS
+# ============================================
+
+# Token do seu bot Discord
+# Como obter: https://discord.com/developers/applications → Sua aplicação → Bot → Token
+BOT_TOKEN=cole_seu_token_do_discord_aqui
+
+# Prefixo dos comandos do bot (opcional, padrão é "!")
+COMMAND_PREFIX=!
+
+# ID da categoria onde os tickets serão criados
+# Como obter: Ative modo desenvolvedor no Discord → Clique direito na categoria → Copiar ID
+TICKET_CATEGORY_ID=123456789012345678
+
+# ID do cargo de suporte (quem pode ver os tickets)
+# Como obter: Clique direito no cargo → Copiar ID
+SUPPORT_ROLE_ID=123456789012345678
+
+# ID do canal de voz para sistema automatizado
+# Como obter: Clique direito no canal de voz → Copiar ID
+AUDIO_CHANNEL_ID=123456789012345678
+
+# ============================================
+# CONFIGURAÇÕES OPCIONAIS (SISTEMA DE VOZ)
+# ============================================
+
+# Chave da API do ElevenLabs para clonagem de voz
+# Como obter: https://elevenlabs.io → Profile Settings → API Key
+ELEVENLABS_API_KEY=cole_sua_chave_elevenlabs_aqui
+
+# ID da voz que você quer usar para clonagem
+# Como obter: No painel do ElevenLabs, cada voz tem um ID único
+VOICE_ID=cole_o_id_da_voz_aqui
+
+# ============================================
+# INSTRUÇÕES DE CONFIGURAÇÃO
+# ============================================
+#
+# 1. DISCORD BOT:
+#    - Vá para https://discord.com/developers/applications
+#    - Crie uma nova aplicação
+#    - Vá em "Bot" e copie o token
+#    - Convide o bot para seu servidor com as permissões necessárias
+#
+# 2. ELEVENLABS (OPCIONAL):
+#    - Crie uma conta em https://elevenlabs.io
+#    - Obtenha sua API key no perfil
+#    - Clone uma voz ou use uma das vozes padrão
+#    - Copie o Voice ID da voz escolhida
+#
+# 3. DISCORD IDS:
+#    - Ative o "Modo Desenvolvedor" nas configurações do Discord
+#    - Clique com botão direito nos itens e selecione "Copiar ID"
+#
+# 4. PERMISSÕES DO BOT NO DISCORD:
+#    O bot precisa das seguintes permissões:
+#    - Gerenciar canais
+#    - Ler mensagens
+#    - Enviar mensagens
+#    - Gerenciar mensagens
+#    - Mencionar todos os cargos
+#    - Conectar (voz)
+#    - Falar (voz)
+#    - Usar comando de barra
+#
+# ============================================
+# DEPOIS DE CONFIGURAR
+# ============================================
+#
+# 1. Renomeie este arquivo para ".env"
+# 2. Execute: python start_bot.py
+# 3. O bot verificará suas configurações automaticamente
+#
+# ============================================ 
